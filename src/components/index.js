@@ -1,6 +1,7 @@
 /* @flow */
 import React from 'react';
 export * from './lightning';
+export * from './chatter';
 
 /**
  *
